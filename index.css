@@ -37,6 +37,13 @@ li{
 /* .opacity{
     opacity: 30%;
 } */
+
+.grid-sistem-auto1{
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: 34vh;
+    /* margin: 10rem 0; */
+}
 .autoinfo{
     
     display: grid;
